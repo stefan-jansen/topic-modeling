@@ -167,9 +167,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 .idea/
-.ipynb_checkpoints/
 bbc/
-lda_10_iter.pkl
-lda_demo.pkl
-lda_opt.pkl
+lda_models
 topic_modeling.ipynb
+reveal.js/
