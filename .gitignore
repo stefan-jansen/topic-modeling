@@ -169,5 +169,5 @@ venv.bak/
 .idea/
 bbc/
 lda_models
-topic_modeling.ipynb
+*.key
 
